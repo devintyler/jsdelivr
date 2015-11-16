@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "syncano",
+  "repo": "Syncano/syncano-js-lib",
+  "files": {
+    "include": ["syncano.js", "syncano.min.js", "syncano.min.js.map"]
+  }
+}
